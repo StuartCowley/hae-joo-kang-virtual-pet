@@ -1,30 +1,18 @@
 # VirtualPet
 
-VirtualPet project 
+VirtualPet project 🐩 🐕
 
 ## About
 
 Creating virtual pets using JavaScript. 
 As part of the Manchester Codes curriculum for utilising OOP.
 
-## Installation
-
-* XXXX
-* XXXX
-
-
-## How to use
-
-
-```bash
-XXXXXX
-```
 
 ## Features
 
 You can give them a name
 
-They can get older
+They can get older 
 
 As they get older, they get hungrier and less fit
 
